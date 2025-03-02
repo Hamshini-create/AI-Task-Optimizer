@@ -27,3 +27,42 @@ This project integrates Natural Language Processing (NLP), Computer Vision, and 
 
     streamlit run app.py
 
+    
+📌 Technologies Used:
+
+Python  (Core Development)
+
+Streamlit  (Frontend UI)
+
+Transformers (Hugging Face)  (NLP & Speech Emotion Recognition)
+
+DeepFace  (Facial Expression Analysis)
+
+Librosa  (Audio Processing)
+
+OpenCV  (Webcam Image Capture)
+
+Kafka (Optional)  (For real-time streaming if needed)
+
+📌 How It Works:
+
+1️⃣ User Inputs Emotion Data – via text, webcam, or microphone.
+
+2️⃣ AI Models Detect Emotion – using NLP, facial analysis, and speech recognition.
+
+3️⃣ Task Recommendation – The system suggests a task based on detected emotion.
+
+4️⃣ Employee Adjusts Work Tasks Accordingly – leading to better productivity and stress management.
+
+
+📌 Future Enhancements:
+
+🚀 Improving emotion classification accuracy with larger datasets.
+
+🚀 Adding stress-level monitoring over time for better HR intervention.
+
+🚀 Integrating voice-based task automation (e.g., suggest tasks via voice commands).
+
+
+
+
