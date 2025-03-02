@@ -15,6 +15,11 @@ This project integrates Natural Language Processing (NLP), Computer Vision, and 
 
 ✅ Real-Time Processing – Provides instant feedback for productivity enhancement.
 
+
+
+
+
+
 📌 Installation & Usage:
 
 1️⃣ Clone the Repository
@@ -26,6 +31,10 @@ This project integrates Natural Language Processing (NLP), Computer Vision, and 
 3️⃣ Run the Application
 
     streamlit run app.py
+
+
+
+    
 
     
 📌 Technologies Used:
@@ -44,6 +53,10 @@ OpenCV  (Webcam Image Capture)
 
 Kafka (Optional)  (For real-time streaming if needed)
 
+
+
+
+
 📌 How It Works:
 
 1️⃣ User Inputs Emotion Data – via text, webcam, or microphone.
@@ -53,6 +66,9 @@ Kafka (Optional)  (For real-time streaming if needed)
 3️⃣ Task Recommendation – The system suggests a task based on detected emotion.
 
 4️⃣ Employee Adjusts Work Tasks Accordingly – leading to better productivity and stress management.
+
+
+
 
 
 📌 Future Enhancements:
